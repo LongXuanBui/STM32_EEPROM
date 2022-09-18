@@ -1,0 +1,4 @@
+../Core/Src/EEPROM_32Kbit.c:11:6:eeprom32_init	24	static
+../Core/Src/EEPROM_32Kbit.c:29:6:eeprom32_clear_all	4120	static
+../Core/Src/EEPROM_32Kbit.c:37:6:eeprom32_write_mem	32	static
+../Core/Src/EEPROM_32Kbit.c:42:6:eeprom32_read_mem	32	static
